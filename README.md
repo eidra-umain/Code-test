@@ -9,9 +9,10 @@
 ## Resources
 
 ### Design 
-You can find the design in [Figma](https://www.figma.com/file/yw7DttG4w7F28tmTaxXrLh/Code-test?node-id=64:106).
+You can find the design in [Figma]([https://www.figma.com/file/yw7DttG4w7F28tmTaxXrLh/Code-test?node-id=64:106](https://www.figma.com/file/yw7DttG4w7F28tmTaxXrLh/Code-test?type=design&node-id=0%3A1&mode=design&t=xw5TJPORE0Izcy5C-1)).
 Interactions can be seen by pressing presentation except the filter.
-[Components](https://www.figma.com/file/yw7DttG4w7F28tmTaxXrLh/Code-test?node-id=305:96) and [Styles](https://www.figma.com/file/yw7DttG4w7F28tmTaxXrLh/Code-test?node-id=305:102) are located on their own pages.
+[Components]([https://www.figma.com/file/yw7DttG4w7F28tmTaxXrLh/Code-test?node-id=305:96](https://www.figma.com/file/yw7DttG4w7F28tmTaxXrLh/Code-test?type=design&node-id=305%3A96&mode=design&t=xw5TJPORE0Izcy5C-1)) and [Styles](https://www.figma.com/file/yw7DttG4w7F28tmTaxXrLh/Code-test?type=design&node-id=305%3A102&mode=design&t=xw5TJPORE0Izcy5C-1
+) are located on their own pages.
 
 ### Endpoints
 [https://food-delivery.umain.io/swagger/](https://food-delivery.umain.io/swagger/)
