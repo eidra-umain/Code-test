@@ -4,7 +4,7 @@
 
 - Present the restaurants fetched from the API in a list.
 - When pressing a restaurant card opens up a detail view and show if the restaurant is opened or closed.
-- Fetch filters (id's can be found in restarants response) and present them in a horizontal list, do not extract assets from figma, fetch them from the provided URL. Pressing a filter item which should alter the restaurant list so it only shows restaurants with that tag. Multiple filters can be selected at the same time.
+- Fetch filters (id's can be found in restarants response) and present them in a horizontal list, do not extract assets from figma, fetch them from the provided URL. Pressing a filter item which should alter the restaurant list so it only shows restaurants with that tag. Multiple filters can be selected at the same time. Since you won't have Dev mode for Figma you can right click to select a layer and in turn export an image e.g. Umain logo.
 
 ## Resources
 
